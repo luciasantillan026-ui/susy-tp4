@@ -16,6 +16,12 @@ El sistema permitirá registrar productos, consultar las cantidades disponibles,
 Objetivo
 Mejorar la organización y el control de la mercadería mediante una herramienta que permita mantener actualizada la información del inventario y facilitar la toma de decisiones relacionadas con la reposición de productos.
 
+Herramientas utilizadas
+- Git y GitHub: para el control de versiones, la organización del repositorio y el trabajo colaborativo.
+- GitHub Projects: para gestionar las historias de usuario y organizar las tareas mediante un tablero Kanban.
+- BPMN: para representar gráficamente el proceso de reposición de stock.
+- IA: como apoyo para organizar y revisar la documentación.
+
 Funcionalidades principales
 - Registro y consulta de productos.
 - Registro de entradas, salidas y ajustes de stock.
