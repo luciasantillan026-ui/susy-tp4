@@ -43,3 +43,7 @@ El proceso utiliza las entidades Producto, Proveedor, Movimiento de stock y Usua
 
 Automatización del sistema
 El Sistema de Gestión de Stock automatiza el descuento de las unidades vendidas, la comparación con el stock mínimo, la generación de alertas de reposición y la actualización de las cantidades disponibles luego de registrar el ingreso de mercadería.
+
+
+## Diagrama del proceso 
+![Diagrama BPMN de reposición de stock](diagrama-reposicion-stock.png)
