@@ -1,4 +1,4 @@
-Trabajo Practico N°4 - PROCESOS, TRABAJO COLABORATIVO Y CONTROL INTEGRADOR
+## Trabajo Practico N°4 - PROCESOS, TRABAJO COLABORATIVO Y CONTROL INTEGRADOR
 Tecnicatura Universitaria en Programación - Universidad Tecnológica Nacional.
 Organización Empresarial
 
@@ -33,3 +33,8 @@ Para evaluar el funcionamiento y el rendimiento del Sistema de Gestión de Inven
 | Tiempo de desarrollo e implementación | Plazo estimado para desarrollar e implementar el sistema. | Máximo 3 meses. |
 
 Estos indicadores permitirán evaluar el rendimiento del sistema, detectar posibles inconvenientes y comprobar que responda adecuadamente a las necesidades del supermercado.
+
+## Declaración de Uso de IA
+Durante la elaboración de este proyecto se utilizaron herramientas de inteligencia artificial como apoyo para la organización, documentación y revisión del trabajo.
+Se utilizó para orientar la elaboración de la documentación técnica, organizar las tareas en GitHub, revisar la redacción y estructurar las historias de usuario.
+Fue utilizada como asistencia. Se revisaron los resultados obtenidos, se realizaron ajustes y se verificó la coherencia.
