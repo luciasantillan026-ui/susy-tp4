@@ -21,3 +21,15 @@ Funcionalidades principales
 - Registro de entradas, salidas y ajustes de stock.
 - Actualización de las cantidades disponibles.
 - Control de stock mínimo y generación de alertas de reposición.
+
+## Indicadores de control y estándares de desempeño
+Para evaluar el funcionamiento y el rendimiento del Sistema de Gestión de Inventario y Stock del Supermercado Susy, se establecen indicadores de control y estándares de desempeño que permitirán verificar el cumplimiento de los objetivos del sistema.
+
+| Indicador | ¿Qué controla? | Estándar esperado |
+|---|---|---|
+| Tiempo de consulta de stock | Cuánto tarda el sistema en mostrar el stock de un producto. | Máximo 5 segundos. |
+| Tiempo de actualización de stock | Cuánto tarda en reflejarse una entrada o salida de mercadería. | Máximo 5 segundos. |
+| Capacidad de almacenamiento | Cantidad de productos que puede gestionar el sistema. | Hasta 10.000 productos. |
+| Tiempo de desarrollo e implementación | Plazo estimado para desarrollar e implementar el sistema. | Máximo 3 meses. |
+
+Estos indicadores permitirán evaluar el rendimiento del sistema, detectar posibles inconvenientes y comprobar que responda adecuadamente a las necesidades del supermercado.
