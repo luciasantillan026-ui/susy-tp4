@@ -40,7 +40,17 @@ Para evaluar el funcionamiento y el rendimiento del Sistema de Gestión de Inven
 
 Estos indicadores permitirán evaluar el rendimiento del sistema, detectar posibles inconvenientes y comprobar que responda adecuadamente a las necesidades del supermercado.
 
-## Declaración de Uso de IA
-Durante la elaboración de este proyecto se utilizaron herramientas de inteligencia artificial como apoyo para la organización, documentación y revisión del trabajo.
-Se utilizó para orientar la elaboración de la documentación técnica, organizar las tareas en GitHub, revisar la redacción y estructurar las historias de usuario.
-Fue utilizada como asistencia. Se revisaron los resultados obtenidos, se realizaron ajustes y se verificó la coherencia.
+## Declaración de Uso de Inteligencia Artificial
+
+Durante el desarrollo de este proyecto se utilizaron herramientas de Inteligencia Artificial, principalmente ChatGPT y Claude, como recursos de consulta y apoyo para distintas etapas del trabajo.
+Estas herramientas se utilizaron para comprender y organizar los contenidos, mejorar la redacción de la documentación, planificar las actividades en GitHub Projects, elaborar las historias de usuario y representar el proceso de reposición de stock mediante BPMN.
+A continuación, se presentan algunos ejemplos de las consultas realizadas:
+
+- **Documentación:** se solicitó ayuda para organizar la información y describir las funcionalidades principales del Sistema de Gestión de Inventario y Stock del Supermercado Susy.
+- **Proceso BPMN:** se consultó cómo representar el proceso de reposición de mercadería, identificando los participantes, las actividades y las decisiones que intervienen.
+- **Historias de usuario:** se solicitó orientación para redactar historias de usuario relacionadas con el descuento automático del stock, las alertas de stock mínimo y el registro de ingreso de mercadería.
+- **GitHub Projects:** se consultó cómo organizar las tareas del proyecto y clasificarlas en los estados Por Hacer, En Progreso y Listo.
+
+Las respuestas obtenidas no fueron incorporadas directamente sin revisión. Se realizaron modificaciones para adaptarlas al funcionamiento del Supermercado Susy y a los requisitos del proyecto. Por ejemplo, se ajustaron las actividades y los participantes del proceso BPMN, se revisó el contenido de las historias de usuario y se organizaron las tareas de acuerdo con las etapas previstas para el desarrollo del sistema.
+También se revisó la documentación para mantener la coherencia entre los objetivos, las funcionalidades, el proceso modelado y la planificación del proyecto.
+La utilización de estas herramientas tuvo como finalidad facilitar la comprensión y elaboración de los contenidos. Las decisiones finales, la selección de la información y la revisión de las modificaciones realizadas estuvieron a cargo de la estudiante.
