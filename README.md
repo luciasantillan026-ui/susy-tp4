@@ -53,4 +53,4 @@ A continuación, se presentan algunos ejemplos de las consultas realizadas:
 
 Las respuestas obtenidas no fueron incorporadas directamente sin revisión. Se realizaron modificaciones para adaptarlas al funcionamiento del Supermercado Susy y a los requisitos del proyecto. Por ejemplo, se ajustaron las actividades y los participantes del proceso BPMN, se revisó el contenido de las historias de usuario y se organizaron las tareas de acuerdo con las etapas previstas para el desarrollo del sistema.
 También se revisó la documentación para mantener la coherencia entre los objetivos, las funcionalidades, el proceso modelado y la planificación del proyecto.
-La utilización de estas herramientas tuvo como finalidad facilitar la comprensión y elaboración de los contenidos. Las decisiones finales, la selección de la información y la revisión de las modificaciones realizadas estuvieron a cargo de la estudiante.
+La utilización de estas herramientas tuvo como finalidad facilitar la comprensión y elaboración de los contenidos.
